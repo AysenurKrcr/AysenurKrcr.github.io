@@ -1,0 +1,13 @@
+table{background-color: rgba(69, 172, 29, 0.795)}
+table{font-style: oblique}
+table{font-size: 25pt}
+i{color: blueviolet}
+i{background-color: hotpink}
+p{background-color: yellow}
+th{padding: 10; border: dashed; margin: 15;}
+.fethiye{ 
+    border-color: blue;
+    border-width: 10px;
+    border-style: solid;
+    border-radius: 10px
+}
